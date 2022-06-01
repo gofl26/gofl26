@@ -3,7 +3,7 @@
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-green?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-
+    <img src="https://img.shields.io/badge/mongodb-green?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
 <!--
 **gofl26/gofl26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
