@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=afd7FF&height=200&section=header&text=welcome%20&fontSize=120&animation=twinkling&fontColor=ffff)
-### Hi there 👋
+
+<h3 align="center"> Tech Stack </h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/javascript-green?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 
 <!--
 **gofl26/gofl26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
